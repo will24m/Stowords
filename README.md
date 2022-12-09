@@ -26,3 +26,11 @@ To use the Google Cloud API for transcription, you will need to provide your API
 config.py
 
 Replace this with your Google Cloud API key
+
+To continue the README.md file:
+
+API_KEY = 'YOUR_API_KEY'
+Replace YOUR_API_KEY with your actual API key, and make sure the config.py file is in the same directory as the transcribe.py script. The program will automatically use the API key from the config.py file when transcribing audio.
+
+## License
+Stowords is licensed under the MIT License. See the LICENSE file for more information.
